@@ -12,16 +12,16 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Andy Yang
+  tagline: 
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    webchat: yang_zhizhi
+    github:  zzyang
+    linkedIn: in/andy-yang-a2920129
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -49,8 +49,8 @@ plainwhite:
 # - about.md
 
 # Build settings
-# theme: plainwhite
-remote_theme: thelehhman/plainwhite-jekyll
+theme: plainwhite
+# remote_theme: thelehhman/plainwhite-jekyll
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
