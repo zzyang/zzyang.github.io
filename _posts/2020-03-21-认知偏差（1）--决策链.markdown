@@ -6,4 +6,4 @@ tags:   股市进阶之道
 categories: 投资
 ---
 
-人们决策的先后顺序及强度是沿着事实 \to 信息 $\rightarrow$ 观点 $\rightarrow$ 判断 $\rightarrow$ 理念 $\rightarrow$ 信仰
+人们决策的先后顺序及强度是沿着事实 \to 信息 \rightarrow 观点 $\rightarrow 判断 $\rightarrow$ 理念 → 信仰
