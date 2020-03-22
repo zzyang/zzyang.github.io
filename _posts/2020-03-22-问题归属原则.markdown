@@ -2,7 +2,7 @@
 layout: post
 title:  "父母效能训练（1）——问题归属原则"
 date:   2020-03-22 20:00:53 +0800
-Tags:   PET 父母效能训练
+tags:   PET 父母效能训练
 categories: 教育
 ---
 
