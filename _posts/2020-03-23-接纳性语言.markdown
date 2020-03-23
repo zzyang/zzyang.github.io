@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "父母效能训练（1）——接纳性语言"
+title:  "父母效能训练（2）——接纳性语言"
 date:   2020-03-23 13:01:54 +0800
 tags:   PET父母效能训练
 categories: 教育
