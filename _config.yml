@@ -218,6 +218,7 @@ social:
   GitHub: https://github.com/zzyang
   WeChat: 
   Linkedin:
+  Email: yangzhizhi@gmail.com
 
 
 # Social Links Icons
@@ -228,12 +229,13 @@ social:
 social_icons:
   enable: true
   # Icon Mappings.
-  KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
+  #KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Twitter: twitter
   Weibo: weibo
   WeChat: weixin
   Linkedin: linkedin-square
+  Email: envelope
 
 
 # Sidebar Avatar
