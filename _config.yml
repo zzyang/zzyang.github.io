@@ -217,6 +217,7 @@ social:
   #LinkLabel: Link
   GitHub: https://github.com/zzyang
   WeChat: 
+  Linkedin:
 
 
 # Social Links Icons
@@ -232,6 +233,7 @@ social_icons:
   Twitter: twitter
   Weibo: weibo
   WeChat: weixin
+  Linkedin: linkedin-square
 
 
 # Sidebar Avatar
