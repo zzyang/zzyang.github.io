@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "正态分布"
-date:   2020-04-30 21:14:51 +0800
+title:  "正态分布 normal distribution"
+date:   2020-08-24 21:14:51 +0800
 tags:   模型思维
 categories: 思维方式
 ---
