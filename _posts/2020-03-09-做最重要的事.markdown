@@ -3,7 +3,7 @@ layout: post
 title:  "做最重要的事"
 date:   2020-03-09 10:16:36 +0800
 tags:   
-categories: 
+categories: 人生
 ---
 
 重要而紧急的事：（优先处理）
