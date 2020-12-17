@@ -4,6 +4,7 @@ title:  随机游走
 date:   2020-12-06 10:27:31 +0800
 tags:   模型思维
 categories: 思维方式
+mathjax: true
 ---
 
 
