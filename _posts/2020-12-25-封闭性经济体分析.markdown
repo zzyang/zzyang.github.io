@@ -41,7 +41,15 @@ mathjax: true
 
 ![总产出与总需求](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/10010.jpeg?raw=true)
 
+**横轴仍然是总收入Y，纵轴我们放上名义利率i。同时将这两个点连起来并且向两个方向延伸就得到一条刻画物品市场均衡的曲线———IS曲线。利率越低，物品市场均衡总收入=总产出=总需求，就越高**。
 
+![IS曲线](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/10085.jpeg?raw=true)
+
+整个经济具体会处于哪一种情形还要看货币和金融市场的均衡曲线LM。这两个不同市场的均衡曲线的共同交点将是短期整体均衡点。
+
+减税和增加政府开支可以统称为扩张性财政政策。会导致总需求的上升，IS曲线向右移动。扩张性财政政策在短期内刺激经济效果是比较明显的，但从长期而言，面临政府可持续性的问题。
+
+![减税前后IS曲线的变化](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/10049.jpeg?raw=true)
 
 ## 金融市场均衡
 
