@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "PEG估值与DCF估值"
+title:  "PEG估值与DCF估值（转载）"
 date:   2021-02-16 14:10:06 +0800
 tags:   框架与逻辑
 categories: 投资
 mathjax: true
 ---
 
-## PEG估值与DCF估值（转载）
+## PEG估值与DCF估值
 
 PEG估值的核心是按增速给估值，PEG的基数为1，把增长的百分号去掉变成PE数值，再根据企业和行业的基本面，优秀的企业上浮，一般最高到2，差的下折，但最差也就是0.5。
 
