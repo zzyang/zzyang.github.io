@@ -1,10 +1,10 @@
 title:
   archive: 归档
-  category: 分类
+  category: 主题
   tag: 标签
   schedule: 日程表
   archives: 归档
-  categories: 分类
+  categories: 主题
   tags: 标签
   about: 关于
 
@@ -13,7 +13,7 @@ author: 博主
 menu:
   home: 首页
   archives: 归档
-  categories: 分类
+  categories: 主题
   tags: 标签
   about: 关于
   search: 搜索
@@ -72,7 +72,7 @@ state:
   posts: 日志
   pages: 页面
   tags: 标签
-  categories: 分类
+  categories: 主题
 
 search:
   placeholder: 搜索...
