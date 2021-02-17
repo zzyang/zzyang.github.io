@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "消费品投资框架"
-date:   2021-02-17 15:04:59 +0800
+date:   2021-02-17 23:43:50 +0800
 tags:   框架与逻辑
 categories: 投资
 mathjax: true
