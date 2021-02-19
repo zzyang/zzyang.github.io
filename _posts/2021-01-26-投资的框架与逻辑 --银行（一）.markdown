@@ -2,7 +2,7 @@
 layout: post
 title:  "投资的框架与逻辑 -- 银行"
 date:   2021-01-26 15:04:59 +0800
-tags:   银行
+tags:   框架与逻辑
 categories: 投资
 mathjax: true
 ---
