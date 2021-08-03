@@ -24,7 +24,7 @@ categories: 思维方式
 
 按照惯例，初始人口全部由易感者组成。要计算未来某期的知情者人数，只需要将知情者人数和易感者人数代入上述方程即可。由此得到的将是一个r形采用曲线。
 
-![广播模型产生的r形采用曲线](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00087.jpeg?raw=true)
+![广播模型产生的r形采用曲线](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00097.jpeg?raw=true)
 
 相关人群中的每一个人最终都会知悉信息。如果有适当的数据，就可以估计出相关人群的规模。
 
@@ -86,7 +86,7 @@ categories: 思维方式
 
 SIR模型会产生一个临界点，就是所谓的基本再生数R<sub>0</sub>，也就是接触概率乘以扩散概率与痊愈概率之比。某种传染病，如果R<sub>0</sub>大于1，那么这种传染病就可以传遍整个人群，而R<sub>0</sub>小于1的传染病则趋于消失。在这个模型中，信息（或者，在这个例子中是传染病）并不一定会传播到整个相关人群。能不能做到这一点取决于R<sub>0</sub>的值。
 
->![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00249.jpg?raw=true)
+>![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00294.jpg?raw=true)
 
 如果存在疫苗，那么疫苗接种可以预防传染病传播。即便做不到每个人都接种疫苗，也可以预防传染病传播。必须接种疫苗的人的比例，即疫苗接种阈值（vaccination threshold），可以通过公式求出。
 
