@@ -42,7 +42,7 @@ mathjax: true
 
 如果只分析各家银行的财务，你会发现这个公式没什么用，**因为影响最大的 “利息差”（利息收入-利息支出）各家都差不多**（农村商业银行略高），因为存货款利率都差不多，“资本充足率”的硬约束又让各家的杠杆差别也不大，也就是贷款问题与资本规模成正比。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/20210219163631965.png?raw=true)
+![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/640-20210219163631965.png?raw=true)
 
 但是同样的息差，对应的资产结构负债成本可能完全不同。
 
