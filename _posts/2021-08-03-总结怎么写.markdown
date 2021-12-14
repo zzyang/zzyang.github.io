@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "总结怎么写"
-date:   2020-08-03 22:52:51 +0800
+date:   2021-08-03 22:52:51 +0800
 tags:   
 categories: 思维方式
 ---
