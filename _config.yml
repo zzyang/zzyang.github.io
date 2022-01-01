@@ -5,9 +5,9 @@
 
 # Site
 title: 君子慎独
-subtitle:
-description: 
-author: 
+subtitle: 如果人人都理解你，你该是有多平庸
+description: 胡说八道
+author: 爷是小白兔
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -87,7 +87,7 @@ keywords: "Jekyll, NexT"
 rss: false
 
 # Specify the date when the site was setup
-#since: 2015
+#since: 2020
 
 # icon between year and author @Footer
 authoricon: heart
@@ -168,13 +168,13 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host:
+  host: //fonts.loli.net
 
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
     external: true
-    family: Lato
+    family: Noto Serif SC # Lato
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
