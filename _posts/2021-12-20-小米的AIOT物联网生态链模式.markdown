@@ -2,8 +2,8 @@
 layout: post
 title:  "小米的AIOT物联网生态链模式"
 date:   2021-12-20 16:05:37 +0800
-tags:   
-categories: 产业
+tags:   小米
+categories: 商业模式
 ---
 
 ## 小米生态链打法的本质

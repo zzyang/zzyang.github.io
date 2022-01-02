@@ -2,6 +2,7 @@
 layout: post
 title:  "投资"
 date:   2020-03-14 20:33:36 +0800
+tags:
 categories: 投资
 ---
 说说投资，算是个开篇。
