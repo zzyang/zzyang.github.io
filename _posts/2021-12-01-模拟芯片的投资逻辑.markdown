@@ -2,8 +2,8 @@
 layout: post
 title:  "模拟芯片的投资逻辑"
 date:   2021-12-01 11:51:11 +0800
-tags:   投资逻辑
-categories: 半导体投资
+tags:   半导体
+categories: 投资
 mathjax: true
 ---
 
