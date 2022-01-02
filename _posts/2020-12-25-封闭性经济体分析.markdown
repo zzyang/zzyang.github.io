@@ -3,7 +3,7 @@ layout: post
 title:  封闭性经济体分析
 date:   2020-12-25 11:25:49 +0800
 tags:   宏观经济学通识课
-categories: 经济
+categories: 经济学
 mathjax: true
 ---
 
