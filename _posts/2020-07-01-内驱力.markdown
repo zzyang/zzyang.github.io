@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "内驱力"
+title:  "内驱力（转载）"
 date:   2020-07-01 14:36:32 +0800
-tags:   教育
+tags:   
 categories: 教育
 ---
 
