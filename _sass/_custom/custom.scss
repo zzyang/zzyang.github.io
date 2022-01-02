@@ -1,1 +1,35 @@
 // Custom styles.
+// 修改成你期望的宽度
+$content-desktop = 700px
+
+// 当视窗超过 1600px 后的宽度
+$content-desktop-large = 900px
+
+//友链文本颜色
+//将链接文本设置为蓝色，鼠标划过时文字颜色加深，并显示下划线
+.post-body p a{
+    text-align: center;
+    color: #434343;
+    border-bottom: none;
+    &:hover {
+      color: #5073b8;
+      text-decoration: underline;
+    }
+  }
+
+  .site-author-image {
+    display: block;
+    margin: 0 auto;
+    padding: $site-author-image-padding;
+    max-width: $site-author-image-width;
+    height: $site-author-image-height;
+    border: $site-author-image-border-width solid $site-author-image-border-color;
+    
+    /* 头像圆形 */
+    border-radius: 80px;
+    -webkit-border-radius: 80px;
+    -moz-border-radius: 80px;
+    box-shadow: inset 0 -1px 0 #333sf;
+  }
+
+  
