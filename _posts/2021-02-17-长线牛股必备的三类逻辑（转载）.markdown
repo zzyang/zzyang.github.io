@@ -151,7 +151,7 @@ mathjax: true
 
 **但小米一旦变成赢家就不一样了，这个无法证实又无法证伪的逻辑就与质和量的逻辑一起，形成了三个完美的商业闭环：**
 
-![小米的“铁人三项”商业模式](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/5c3cc.jpg?raw=true)
+![小米的“铁人三项”商业模式](../pic/5c3cc.jpg?raw=true)
 
 **硬件与内容的闭环**：手机×AIoT是内容数据的基础，内容数据赋能又加速了手机和AIoT硬件的销售；
 
