@@ -323,7 +323,7 @@ post_meta:
 
 # Post wordcount display settings
 post_wordcount:
-  item_text: true
+  item_text: false
   wordcount: true
   min2read: true
   separated_meta: true
@@ -449,6 +449,7 @@ gitalk:
   repo:   zzyang.github.io
   owner:  zzyang
   admin:  zzyang
+  title:  
 
 # Baidu Share
 # Available value:
