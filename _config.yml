@@ -443,12 +443,12 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: false
-  clientID: # 54730ddf7b9420460c03
-  clientSecret: # c05684701b25ff1c19ea0c01ce4d80c125e0707d
-  repo: # colingpt.github.io
-  owner: # colingpt
-  admin: # colingpt
+  enable: true
+  clientID: 70c13c1d4b27b3f88c33
+  clientSecret: 797a890e8533562ea735d7519cc5d26d1f52ae60
+  repo:   zzyang.github.io
+  owner:  zzyang
+  admin:  zzyang
 
 # Baidu Share
 # Available value:
