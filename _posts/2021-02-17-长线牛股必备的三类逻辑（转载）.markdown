@@ -43,7 +43,7 @@ mathjax: true
 
 实际上，工程机械的周期性并没有那么强，在进入三一重工一家独大的时代后，有望出现类似空调双巨头的收入利润同时增长的时期。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/124640.png?raw=true)
+![](../pic/124640.png?raw=true)
 
 **第三大逻辑，人口老龄化提供长期成长潜力**
 
