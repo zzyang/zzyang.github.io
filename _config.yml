@@ -15,7 +15,7 @@ date_format: '%Y-%m-%d'
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
 url: https://zzyang.github.io
-baseurl: /blob/master/_posts
+baseurl: 
 permalink: /:year/:month/:day/:title
 
 # Pagination
