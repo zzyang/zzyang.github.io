@@ -75,7 +75,7 @@ mathjax: true
 
 我们来看看美国标准普尔500 指数最大市值的10 家公司的变迁，体验一下时代的变化。
 
-![标准普尔500指数市值前10大公司变迁](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/640.jpg?raw=true)
+![标准普尔500指数市值前10大公司变迁](../pic/640.jpg?raw=true)
 
 >20 世纪80 年代，IBM 和AT&T 排在前列，它们分别是一家计算机公司和一家电信公司，后面基本都是石油公司。因为20 世纪70 年代能源危机以后，石油价格当时很高。
 >
