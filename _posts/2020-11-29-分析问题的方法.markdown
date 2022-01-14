@@ -36,7 +36,7 @@ categories: 思维方式
 
 假设某件事的期望值是（B），现状是（B’），那么（B'→ B）这个落差部分，就是问题。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/152018.jpg?raw=true)
+![](../pic/152018.jpg?raw=true)
 
 为什么我们常说“没有问题，就是最大的问题”？因为没有问题，就意味着你不知道目标在哪里，也不知道现状是什么，自然就不知道有什么问题。
 
@@ -97,7 +97,7 @@ categories: 思维方式
 
 所以，要解决这个问题，不能盯着（B'→ B）看，而是要透过（B’）去看ABC，我称之为透析三棱镜。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/153804.jpg?raw=true)
+![](../pic/153804.jpg?raw=true)
 
 ## 4. 校准目标
 

@@ -18,7 +18,7 @@ categories: 投资
 
 而由于消费是每个人的共同需求，消费电子的天花板测算往往用全球70亿总人口数为基准，比起投资品而言市场空间优势极大。常见的大单品包括5000亿美元的手机市场，1500亿美元的PC市场，700亿美元的平板市场，200亿美元的耳机市场。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/161632.png?raw=true)
+![](../pic/161632.png?raw=true)
 
 因此消费电子行业是一个大市场+有溢价的行业，苹果作为消费电子行业最顶端的品牌，占有了最大的市场空间和最高的溢价，也给上游的苹果产业链带来了充足的收入和利润空间；
 
@@ -193,7 +193,7 @@ categories: 投资
 
 客观来看，消费电子的周期是比较容易判断的，难点是估值何时提升进入主升浪。我的经验是，第一次业绩超预期是最重要的催化剂，也是最好的上车点。一方面它是周期强度的确认，另一方面这类公司本身的经营/财务杠杆都比较高，一旦业绩超预期往往会出现连续高增长。
 
-![2017年底的沪电股份](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/162949.png?raw=true)
+![2017年底的沪电股份](../pic/162949.png?raw=true)
 
 假如错过了一开始的业绩超预期上车点，中间是否要上车？这也是大家特别纠结的点。
 
@@ -203,7 +203,7 @@ categories: 投资
 
 而如果过了指数型增长阶段就要谨慎了。这个时候量的环比增速下降，竞争环境容易恶化，利润也会快速下降。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/163055.png?raw=true)
+![](../pic/163055.png?raw=true)
 
 那么舞会何时结束呢？在不愿看消费电子的投资者眼里，你们这种不可持续的利润，就算炒一炒，市场一定会很有效地提前结束吧！（？）
 
@@ -219,7 +219,7 @@ categories: 投资
 
 本质原因是消费电子是周期投资，买入滞涨股的时期往往是周期的中后段。如果是一个微创新周期，时间会更短，很容易买在高点上。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/163150.png?raw=true)
+![](../pic/163150.png?raw=true)
 
 ## 破除财务质量的执念 
 
@@ -235,7 +235,7 @@ categories: 投资
 
 和成长机会相比，短期没有FCF是可以接受的，因为没有FCF而要再融资也是可以接受的。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/163236.png?raw=true)
+![](../pic/163236.png?raw=true)
 
 ## 科技对投资是诅咒吗？ 
 
@@ -255,7 +255,7 @@ categories: 投资
 
 科技的护城河也有长有短，当然对于那些技术路线随时变动有0-1风险的公司，在停滞期我们有理由要求更高的风险补偿、更低的估值。但无需妖魔化科技的投资风险，对科技带来的生产力进步应当持拥抱和欢迎态度。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/163314.png?raw=true)
+![](../pic/163314.png?raw=true)
 
 那么A股这些消费电子股是科技股吗？本质上并不是。
 

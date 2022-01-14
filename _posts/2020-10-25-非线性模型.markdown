@@ -30,13 +30,13 @@ categories: 思维方式
 
 如果一个变量在每个周期内以R（增长率小于15%）的百分比增长，那么下面提供了一个很好的近似：
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00052.jpeg?raw=true)
+![](../pic/00052.jpeg?raw=true)
 
 ### 半衰期模型
 
 如果每H周期，剩余数量的一半会衰减，那么在t周期后，剩余的比例为：
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00054.jpeg?raw=true)
+![](../pic/00054.jpeg?raw=true)
 
 *半衰期模型的一个新应用是在心理学中。早期的心理学研究表明，人们几乎以接近固定不变的速度忘记信息。人们记忆的半衰期取决于事件的显著性。2016年，电影《聚焦》（Spotlight）获得了奥斯卡最佳影片奖。假设，人们对奥斯卡获奖记忆的半衰期为一年，那么到了2018年，有1/4的人会记住这一事实；但是到了2026年，将只有1/1024的人还会记得这件事情。*
 
@@ -50,7 +50,7 @@ categories: 思维方式
 
 下图说明了为什么凹性就意味着风险规避。这幅图描绘了3种结果的幸福价值（幸福感）：高结果（H）、低结果（L），以及前两种结果的平均值（M）。给定形状向下的曲线，平均结果的幸福感会超过低结果和高结果的平均幸福感。
 
-![风险规避：平均价值>价值的平均](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00056.jpeg?raw=true)
+![风险规避：平均价值>价值的平均](../pic/00056.jpeg?raw=true)
 
 相反，凸性意味着风险爱好：我们更喜欢的是极端值，而不是平均值。可以购买的股票数量是其价格的一个凸函数，因此，股票买家更喜欢价格波动。如果价格不断上涨和下跌，买家最终能够获得的股票比价格保持不变时获得的更多。
 
@@ -111,23 +111,23 @@ categories: 思维方式
 
 经济体中的总产出由以下方程给出：
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00064.jpeg?raw=true)
+![](../pic/00064.jpeg?raw=true)
 
 其中，L表示劳动量，K表示实物资本量，A表示技术水平。长期均衡产出O*由下面的方程给出：
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00066.jpeg?raw=true)
+![](../pic/00066.jpeg?raw=true)
 
 为了求出均衡，我们设定投资等于折旧：
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00126.jpeg?raw=true)
+![](../pic/00126.jpeg?raw=true)
 
 因此，均衡机器数量K*要满足等式：
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00128.jpeg?raw=true)
+![](../pic/00128.jpeg?raw=true)
 
 将之代回产出函数，可以求得产出等于：
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00130.jpeg?raw=true)
+![](../pic/00130.jpeg?raw=true)
 
 **长期均衡产出随劳动力数量的增加、技术的进步、储蓄率的提高而增加，同时随折旧率的上升而下降**。
 
@@ -162,5 +162,4 @@ categories: 思维方式
 *科学家可以使用碳-14数据来计算人工制品的年龄，经济学家还可以估计经济小幅增长的长期影响*。
 
 一旦包括了非线性，直觉就变得不够用了。直觉可以告诉我们影响的方向：储蓄的增加、劳动力的增加和技术创新可以加快增长。模型还揭示了这些影响的形状和形式。正如我们所料，储蓄具有线性效应。从长远来看，劳动力的增加也是如此，即便模型假设短期收益递减。**创新的增加还会产生乘数效应，我们对这种效应取其平方**。第一个增长是创新的直接影响，产出的第二次增长则来自资本的增加。
-
 
