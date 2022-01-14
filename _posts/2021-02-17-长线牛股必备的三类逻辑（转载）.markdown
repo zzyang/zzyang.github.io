@@ -43,7 +43,7 @@ mathjax: true
 
 实际上，工程机械的周期性并没有那么强，在进入三一重工一家独大的时代后，有望出现类似空调双巨头的收入利润同时增长的时期。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/124640.png?raw=true)
+![](../pic/124640.png)
 
 **第三大逻辑，人口老龄化提供长期成长潜力**
 
@@ -151,7 +151,7 @@ mathjax: true
 
 **但小米一旦变成赢家就不一样了，这个无法证实又无法证伪的逻辑就与质和量的逻辑一起，形成了三个完美的商业闭环：**
 
-![小米的“铁人三项”商业模式](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/5c3cc.jpg?raw=true)
+![小米的“铁人三项”商业模式](../_posts/pic/5c3cc.jpg)
 
 **硬件与内容的闭环**：手机×AIoT是内容数据的基础，内容数据赋能又加速了手机和AIoT硬件的销售；
 
