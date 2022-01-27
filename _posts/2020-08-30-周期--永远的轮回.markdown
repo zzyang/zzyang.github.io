@@ -3,7 +3,7 @@ layout: post
 title:  "周期 -- 永远的轮回"
 date:   2020-08-30 18:08:00 +0800
 tags:   股市进阶之道
-categories: 投资
+categories: 股票
 ---
 
 ### 资本环境周期
@@ -16,9 +16,9 @@ categories: 投资
 
   高利率更倾向于压制证券市场的估值，在实际中，利率的变动并不总是与证券市场的热度形成高度对应的节奏。**两者之间的步伐会有相当长的时滞效应**。
 
-  ![91-07年存款利率](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00154.jpeg?raw=true)
+  ![91-07年存款利率](../pic/00154.jpeg?raw=true)
 
-  ![91-08年A股市盈率](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00155.jpeg?raw=true)
+  ![91-08年A股市盈率](../pic/00155.jpeg?raw=true)
      
 + 通胀
 
@@ -46,8 +46,8 @@ categories: 投资
 
   我们只求相对准确地对当前的周期阶段进行大致的定性，其意义和效果也已经可以令人满意。
 
- ![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00157.jpeg?raw=true)
- ![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/00158.jpeg?raw=true)
+ ![](../pic/00157.jpeg?raw=true)
+ ![](../pic/00158.jpeg?raw=true)
 
  + 证券化率的参考价值
   

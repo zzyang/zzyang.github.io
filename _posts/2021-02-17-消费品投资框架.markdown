@@ -29,7 +29,7 @@ mathjax: true
 
 **我们投资重中之重关注的是高频高额的消费品**，比如中高档白酒、高端化妆品、教育培训，甚至可以延伸到某些医药领域。我们会着重去考量这类企业、品类，因为它的空间非常广阔，公司也可以增长很快。对高频低额、低频高额的消费品我们也密切关注。但对于低频低额的品类，我们不会花费太多精力，因为研究它的性价比不高。
 
- ![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/802032.png?raw=true)
+ ![](../pic/802032.png?raw=true)
 
 ### **品牌**
 
@@ -57,7 +57,7 @@ mathjax: true
 
 中国的渠道在互联网技术的普及、现代物流基础建设提升的大背景下，发生了很大变化。我们可以看到下方的图，以前是各层级的分销，有了电商后，企业可以绕过多个层级，直达消费者。 
 
- ![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/6ec929.jpg?raw=true)
+ ![](../pic/6ec929.jpg?raw=true)
 
 这会产生几个效果：
 
@@ -83,7 +83,7 @@ mathjax: true
 
 我们以某电子企业为例，如图，当我们把ROE和自由现金流引入到图中，可以看到它的利润表增长非常夸张，过去10年复合增速大概是50%。
 
- ![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/6edafd.jpg?raw=true)
+ ![](../pic/6edafd.jpg?raw=true)
 
 但固定资产的投入也随之增长，它的投入变成了厂房。它的自由现金流随着投入增长、利润表的增长变成负数，这就是商业模式的问题。
 
@@ -97,7 +97,7 @@ mathjax: true
 
 最后举两个例子，某医药企业和某消费品企业（见下图）。通过利润表上的指标可以看到，它们在初期投入比产出要多，当时的自由现金流一般。无论建立品牌、建立渠道，还是投入研发，去产生研发壁垒也好，到一定阶段就会出现拐点，出现自由现金流和收入、利润同步的快速增长，而且能够在高点一直维持着。
 
- ![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/29db7.jpg?raw=true)
+ ![](../pic/29db7.jpg?raw=true)
 
 未来如果这个壁垒足够深，自由现金流还能够不断维持，这就是非常了不起的企业。现在我们就想致力于寻找下一个十年，可以走出这样的图的企业。
 

@@ -3,7 +3,7 @@ layout: post
 title:  "PEG估值与DCF估值（转载）"
 date:   2021-02-16 14:10:06 +0800
 tags:   框架与逻辑
-categories: 投资
+categories: 股票
 mathjax: true
 ---
 
@@ -21,7 +21,7 @@ PEG估值法比较好理解会给正处于高速增长中的企业以高估值�
 
 下图是某机构为茅台估值的一系列假设条件：
 
-![DCF估值假设](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/51f033.jpg?raw=true)
+![DCF估值假设](../pic/51f033.jpg?raw=true)
 
 正常发展的企业，两种估值方法得到的结果应该差不多。但那些**未来空间大但目前利润及增速一般的企业，DCF估值法会给出一个很高的估值**，此时，如果从PEG的角度看，就是高估了，比如上面的例子。
 

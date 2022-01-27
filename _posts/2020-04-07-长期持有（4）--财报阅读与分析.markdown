@@ -3,7 +3,7 @@ layout: post
 title:  "长期持有（4）-- 财报阅读与分析"
 date:   2020-04-07 19:51:43 +0800
 tags:   股市进阶之道
-categories: 投资
+categories: 股票
 ---
 
 带着问题去阅读、抓住重点、最后要一个总结。

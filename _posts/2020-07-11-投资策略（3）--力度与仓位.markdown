@@ -3,7 +3,7 @@ layout: post
 title:  "投资策略（3）-- 力度与仓位"
 date:   2020-07-11 11:20:31 +0800
 tags:   股市进阶之道
-categories: 投资
+categories: 股票
 ---
 
 **股价 x 持仓量 = 每股收益 x 估值 x 股票数量**

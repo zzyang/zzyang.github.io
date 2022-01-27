@@ -3,7 +3,7 @@ layout: post
 title:  "回归本质（3）-- 投资的本质"
 date:   2020-03-27 17:58:39 +0800
 tags:   股市进阶之道
-categories: 投资
+categories: 股票
 ---
 
 **投资的本质是前瞻。**

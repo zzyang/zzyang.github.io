@@ -3,7 +3,7 @@ layout: post
 title:  "2021年A股的风险（转载）"
 date:   2021-01-29 12:37:59 +0800
 tags:   框架与逻辑
-categories: 投资
+categories: 股票
 mathjax: true
 ---
 

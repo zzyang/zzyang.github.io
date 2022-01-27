@@ -3,7 +3,7 @@ layout: post
 title:  "高价值企业（1）-- 商业价值"
 date:   2020-03-29 15:58:53 +0800
 tags:   股市进阶之道
-categories: 投资
+categories: 股票
 ---
 
 商业价值是一个企业得以存在和发展的基本前提和基础。

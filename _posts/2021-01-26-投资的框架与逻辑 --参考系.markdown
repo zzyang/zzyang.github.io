@@ -3,7 +3,7 @@ layout: post
 title:  "投资的框架与逻辑 -- 参考系"
 date:   2021-01-26 14:44:44 +0800
 tags:   框架与逻辑
-categories: 投资
+categories: 股票
 mathjax: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "消费类电子股 （转载）"
 date:   2020-12-01 16:34:09 +0800
 tags:   
-categories: 投资
+categories: 股票
 ---
 
 ## 消费电子双重属性：消费×电子 

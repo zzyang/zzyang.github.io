@@ -63,7 +63,7 @@ mathjax: true
 
 在这个基础上，你才能进一步理解2018年业绩下降的“病因”在哪儿。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/640m51.png?raw=true)
+![](../pic/640m51.png?raw=true)
 
 ### 分众的战略选择
 
@@ -73,7 +73,7 @@ mathjax: true
 
 前面我已经纠正了一个错误认识，经济下行期，广告客户会削减广告预算，所以**广告业是个典型的周期性行业**，百度最近一季财报出现十几年来的首度亏损，腾讯的广告收入增长率也在下降。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/640-20210219123712000.jpeg?raw=true)
+![](../pic/640-20210219123712000.jpeg?raw=true)
 
 这是行业因素，但分众自身因素的原因更重要。
 
@@ -91,7 +91,7 @@ mathjax: true
 
 虽然结果是扩大市场份额，但必然造成财务数字很难看，从去年二季度开始，成本大幅上升，利润断崖式下跌。
 
-![图片](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/640-20210219124052128.jpeg?raw=true)
+![](../pic/640-20210219124052128.jpeg?raw=true)
 
 所以，分众的业绩下降只是暂时的，甚至是主动性，用短期的主动性亏损来避免竞争对手长期威胁，今后的恢复是大概率的。
 
@@ -121,7 +121,7 @@ mathjax: true
 
 阿里的“千人千面”的智能投放技术是非常牛的，正是2015年后阿里货币化率大幅提升的“大象起舞”的重要原因。
 
-![图片](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/640-20210219125347918.jpeg?raw=true)
+![](h../pic/640-20210219125347918.jpeg?raw=true)
 
 第二、从广告主的行业看，**新经济行业削减程度大于日用快消品行业，前者严重依赖投资，后者取决于消费，周期性不明显**。
 
@@ -131,7 +131,7 @@ mathjax: true
 
 从消费数据看，一季度有恢复，但4月份又开始下降，分众业绩难言见底。
 
-![图片](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/640-20210219125612994.jpeg?raw=true)
+![](../pic/640-20210219125612994.jpeg?raw=true)
 
 综合看来，后周期的分众的业绩触底，最快也要三季度或者年底的报表才能体现。
 

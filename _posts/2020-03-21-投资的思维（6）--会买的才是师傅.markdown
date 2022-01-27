@@ -3,7 +3,7 @@ layout: post
 title:  "投资的思维（6）-- 会买的才是师傅"
 date:   2020-03-21 14:00:59 +0800
 tags:   股市进阶之道
-categories: 投资
+categories: 股票
 ---
 
 “卖出有多成功，其实取决于你买入的那一刻。”

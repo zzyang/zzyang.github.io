@@ -3,7 +3,7 @@ layout: post
 title:  "十年期美债收益率对A股影响（转载）"
 date:   2021-03-22 15:21:36 +0800
 tags:   框架与逻辑
-categories: 投资
+categories: 股票
 mathjax: true
 ---
 
@@ -21,15 +21,15 @@ mathjax: true
 
 近半年，中国的十年期国债变化不大，都是3.2%附近振荡，而近期更是波澜不惊，无法解释节前的暴涨和节后一个月的暴跌行情。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/a9288.jpg?raw=true)
+![](../pic/a9288.jpg?raw=true)
 
 相对而言，美债近期的飚升更能解释。但问题是，**美债的上升趋势从去年8月就开始了，11月突破新高，1月初也有一段飚升突破1%，为什么近半年对市场根本没有什么影响呢？**
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/3d66b.jpg?raw=true)
+![](../pic/3d66b.jpg?raw=true)
 
 而且还有一个问题，**如果美国的十年期国债真的是全球资金的成本，直接影响全球资产的定价，为什么我们是第一次感受到呢？**
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/486c2.jpg?raw=true)
+![](../pic/486c2.jpg?raw=true)
 
 有人说A股以前是一个封闭的市场，现在外资来了，当然跟美债的关系就大了，可打脸的是，**就近一周的短期走势看，反而是A股、港股比美股对美债利率更敏感，难道说明A股、港股比美股更国际化？**
 
@@ -94,7 +94,7 @@ mathjax: true
 
 十年期美债，号称全球利率之母，其他利率都在这些基础上叠加时间的因素、风险的因素，所以才有美债利率是全球资金的机会成本的说法——但有一个国家例外，就是中国。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/51a5d.jpg?raw=true)
+![](../pic/51a5d.jpg?raw=true)
 
 
 
@@ -110,7 +110,7 @@ mathjax: true
 
 真正反映当时的资金实际成本的是3个月短期国债，它近期不但没有上升，反而坠落无底深渊，仅有0.01%，基本就是零利率。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/b5673.jpg?raw=true)
+![](../pic/b5673.jpg?raw=true)
 
 
 

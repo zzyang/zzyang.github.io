@@ -9,7 +9,7 @@ mathjax: true
 
 ## 估值的基本方法
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/720w.jpg?raw=true)
+![](../pic/720w.jpg?raw=true)
 
 左边是公司价值的组成部分，由主营业务、非经营性净资产（也就是金融资产）组成。
 
