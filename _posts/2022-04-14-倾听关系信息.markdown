@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "倾听管理"
+title:  "倾听关系信息"
 date:   2022-04-14 18:47:12 +0800
 tags:   人人都需要的管理术
 categories: 领导力
