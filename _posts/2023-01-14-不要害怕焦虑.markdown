@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "不要害怕焦虑"
+title:  "不要害怕焦虑（转载）"
 date:   2023-01-14 00:30:56 +0800
 tags:   
 categories: 思维方式
