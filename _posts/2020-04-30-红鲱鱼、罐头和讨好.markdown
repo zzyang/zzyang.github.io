@@ -2,7 +2,7 @@
 layout: post
 title:  "红鲱鱼、罐头和讨好"
 date:   2020-04-30 21:14:51 +0800
-tags:   人性的弱点
+tags:   
 categories: 思维方式
 ---
 
