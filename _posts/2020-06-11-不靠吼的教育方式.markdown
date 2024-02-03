@@ -10,7 +10,7 @@ categories: 教育
 
 让孩子学习时间管理是典型的第二象限事件--重要而非紧急，可惜大部分时候都被焦虑的我们视作第一象限事件--重要而紧急。一件本应细水长流的事情被拿来充当灭火工具，一开始的立竿见影让人欣喜，然后心有戚戚，因为效果不可持续、且日渐衰退之势看似不可扼制，最后在愤懑中放弃，又重蹈“不吼不精彩”的覆辙。长久之计还是要让孩子学会时间管理！绕了一圈，似乎又回到原点！让孩子学会时间管理，近看可以提高做事效率，远看可以培养受益终身的自律习惯，但是学过无数理论、试过无数方法后，却仍然陷入了“道理谁都懂，问题依然在”的境地。问题到底在哪里呢？
 
-![时间象限](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/%E6%97%B6%E9%97%B4%E8%B1%A1%E9%99%90.jpg?raw=true)
+![时间象限](../pic/%E6%97%B6%E9%97%B4%E8%B1%A1%E9%99%90.jpg?raw=true)
 
 ### Step-1 结果导向——让孩子尝得到甜头
 
@@ -95,7 +95,7 @@ categories: 教育
 
 + 表单
 
-![表单工具](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/%E8%A1%A8%E5%8D%95%E5%B7%A5%E5%85%B7.jpg?raw=true)
+![表单工具](../pic/%E8%A1%A8%E5%8D%95%E5%B7%A5%E5%85%B7.jpg?raw=true)
 
  最常用的表单工具无非就是任务清单（To Do List）、惯例表（Routine Sheet）、日程表（Schedule）等。
 
