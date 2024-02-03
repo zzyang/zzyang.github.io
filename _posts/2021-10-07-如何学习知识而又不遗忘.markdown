@@ -66,7 +66,7 @@ categories: 思维方式
 
 除法运算需要懂乘法口诀，求体积需要懂面积——这无形中就产生了大量被动练习，更别提为了应付考试所做的主动练习，这些环节被我们遗忘、忽视了。
 
-![](https://github.com/zzyang/zzyang.github.io/blob/master/_posts/pic/640.jpeg?raw=true)
+![](../pic/640.jpeg?raw=true)
 
 
 
